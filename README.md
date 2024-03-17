@@ -31,7 +31,8 @@ My goal is to use my skills and knowledge to improve the security of systems and
 
 </p>
 
-## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
+## Tech Stack
 
 <table align="center">
 <tr><td align="top" width="33%">
@@ -43,6 +44,18 @@ My goal is to use my skills and knowledge to improve the security of systems and
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+
+<h3 align="center">Tools and Technologies</h3>
+<div align="center">   
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" height="50" /></a> 
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual" height="50" /></a> 
+<a href="https://www.eclipse.org/downloads/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="Eclipse" height="50" /></a> 
+<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="Npm" height="50" /></a> 
+<a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" height="50" /></a> 
+<a href="https://nmap.org/" target="_blank"><img style="margin: 10px" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" height="50" /></a>
+<a href="https://www.metasploit.com/" target="_blank"><img style="margin: 10px" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="MetasPloit" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="WireShark" height="50" /></a>
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -55,12 +68,28 @@ My goal is to use my skills and knowledge to improve the security of systems and
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+
+
+<h3 align="center">OS</h3>
+<div align="center">  
+<a href="https://www.microsoft.com/es-mx/windows" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" height="50" /></a> 
+
+
+  
+</div>
 
 
 
 
 </div>
 
+
+
 </td></tr></table>
-</td><td valign="top" width="33%">
-<br/>
+
+<br/>  
+
+
